@@ -1,0 +1,32 @@
+version: '2'
+services:
+ mysql:
+   ports:
+     - '127.0.0.1:3305:3306'
+   image: mysql:5.7
+   volumes:
+     - ./docker/mysql/data:/var/lib/mysql
+     - ./docker/mysql/config/my.cnf:/etc/mysql/my.cnf
+   environment:
+     MYSQL_ROOT_PASSWORD: root
+     MYSQL_DATABASE: database
+     MYSQL_USER: yii2
+     MYSQL_PASSWORD: database
+ nginx:
+   image: nginx
+   volumes:
+     - ./:/app:delegated
+     - ./docker/nginx/:/etc/nginx/conf.d/
+   ports:
+     - '80:80'
+ php:
+      build:
+         context: ./
+         dockerfile: Dockerfile
+      environment:
+          YII_DEBUG: 'true'
+          YII_ENV: 'dev'
+          YII_MAIL_FILE_TRANSPORT: 'true'
+      volumes:
+          - ./docker/php/php.ini:/usr/local/etc/php/conf.d/php.ini
+          - ./:/app:delegated

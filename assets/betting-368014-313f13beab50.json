@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "betting-368014",
+  "private_key_id": "313f13beab50237b954afce61bbd7dbc79d6bd1c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCSl7HpqLk2AIr8\n13nxCq9U9uLJ/ZyYUP3jB6TXFtFh/ICJmfxxAkwVsNc22ui4gla3cfH9+G0T64Vl\nOpGUb1bYCYFhP8/O1jvca0ZGty97OCX4BE3qjAfXUTtoUB3tDmA64ALu3/84Zem0\nKGCznDTnDASBqITuRlPaOZdh5FSNeEvE0BfzUKnLz1OC2NznUZb7vHWJ1JUzRQ2P\nzZ/dblG09SUCc88zzbm6pEQfpa4KTyfgna+0vz2KC5pe7uoLjOO0tii2be6JcHik\no/BdY/c8e5gGPBF7irphWHjWhDp5vpOnkGuQjjI7bLZYVBduC0yybM65dnS5GGxt\nWrg3f7qPAgMBAAECggEAGkUeCHoIiuFpBuuUejpIdmjx9nHA/NjSzrshcrwvlKg7\n3qzePOBFA0QYJUfwmZQd9yzvyWwaHA5CbwQib5/OR9PYQDW/x1jEDHma8/RDCYlj\n4IDg963Vf+QaSdTFsCQ54YMgc29n3NMCoRr1TWqqXldcfWHWRJ8Mytg0RUI2Vs2Z\nEgsYlmXxDDYptxvlqbFd+z63aLdGOfO2z7FVc3dWHDi/1We8AJaXC95NyImAO6zr\nvcG/iZp/tdpjRR6YG5MuVQhDP+Absgvy0R5YFIQY1BNmwbbylNlJxpuf0SKFMXMT\nGmYEzJR8JHaU7DLWufkv78f3H6ZeLDa0WPI1EupkcQKBgQDEeeempmpTJmfsYaN3\nfSlKGR8+u7D9iXxYvFwfOPx5pFUGh1INlfESeapiMz4iQIi58hOv5bdDjQe4R4Jn\nAmOHzawtYIwhhClIWc+tjJ+B2lO7K3/uAJPG9vM3CYz5+DuB1geXI/8zWe94eByi\nfCL6KU5nzWuBqQJRKUZ92ENQkQKBgQC/APeqTQITrljgXz3byKB6CUG0gGqQ7wvy\nGb9yb06jtMvBnts7k8G90Kg8pdnS+Yp0oXEW2hIdyzpJcaKyAW2WRXltCe6VYRi9\nxGEJEPT+cSLt4vhLBntjrLdm/gkQcXaW5HaBNc7hCo/FopQkIpJ5pBLMBuW79QcL\nC5yPRTXpHwKBgAM83wxoAaiNIXlLwp3deii2cUVfYnNLKLltoTcCgWafxqbs4/VF\nW0uqpZworAV0esxVqO1lI7gBQvdOdl+sMmeyg/vbc3O58dQ3Zqy9fINvTaHv/ZO2\nfrjwqOFnTuNvq8tf85ASD8qQ2NlrYU1sLkdhFuGvCO6CEn+z5m18et+BAoGAMv23\nIKfeXhK1d3D1uq8c6HeAKwf9ayPmNIPbMFm2zM1/d/lI3ebcWihSQZ6lQEWOSQSw\nhEFDhOC0dtb3cD4hW3TArfNw1kBNspuyrBDy1tqtUIS/dIgOeNWrQLug/9rKpg3n\n9SbATCPdrg1xLxRrtj2vJvjQbBVGBBTdfwIjGlECgYAgMYwnPn6bJeCh4JGLfNZc\nlf0OXE65thItUxMlOOjxQE/M4W2EAbfuo6ITzTPfeD0IKzKOYQqNQVEyZnMZFI9r\naQDXEYO+/3nddgN9WJB6fnhKipVB8tSOt+T3TtuDr5jjD/ZJ0yTJb0QzAr3a4Dsh\n2i5swFslgAddaZ7+21e+lw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "betting@betting-368014.iam.gserviceaccount.com",
+  "client_id": "113769534149081928503",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/betting%40betting-368014.iam.gserviceaccount.com"
+}
